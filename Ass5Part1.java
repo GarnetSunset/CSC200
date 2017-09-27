@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class AveragesWhileLoops {
+public class Ass5Part1 {
 public static void main(String[] args) {
 
 								System.out.println("I can calculate the average of a bunch of numbers and also tel you the larges and the smalles of the numbers and their range.");
